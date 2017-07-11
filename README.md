@@ -6,11 +6,16 @@ Pet project for study of go lang.
 
 # Features
     - Monitoring 
-    - Save logs
-    - Show logs
+    - Logs
+        - Save
+        - Show
     - Exit
 ## Run system
-Open your terminal.    
+
+Open your terminal.
+
+Access root your project.
+
 Run command:
 ```go
 go run main.go
