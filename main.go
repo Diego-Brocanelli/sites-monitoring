@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 	"os"
-	"site-monitor/log"
-	"site-monitor/monitor"
-	"site-monitor/options"
+	"sites-monitoring/log"
+	"sites-monitoring/monitor"
+	"sites-monitoring/options"
 )
 
 const lineSeparator = "------------------------------------------------------------------"

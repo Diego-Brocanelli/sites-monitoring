@@ -6,7 +6,7 @@ import (
 	"io"
 	"net/http"
 	"os"
-	"site-monitor/log"
+	"sites-monitoring/log"
 	"strings"
 	"time"
 )
